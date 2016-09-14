@@ -1,0 +1,9 @@
+# Test
+token: ZY4Ls9Hq6LCBgleGDTaFRDLWWBC8uoXQHkhGuDebKvjFPjHb3iT-4g..
+
+share:
+  -
+    sharee_account_ids:
+      - int
+    tags:
+      - string
